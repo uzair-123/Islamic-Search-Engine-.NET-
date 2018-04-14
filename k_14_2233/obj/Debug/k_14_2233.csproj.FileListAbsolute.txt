@@ -1,0 +1,14 @@
+C:\Users\uzair\Documents\Visual Studio 2015\Projects\k_14_2233\k_14_2233\bin\Debug\k_14_2233.exe.config
+C:\Users\uzair\Documents\Visual Studio 2015\Projects\k_14_2233\k_14_2233\bin\Debug\k_14_2233.exe
+C:\Users\uzair\Documents\Visual Studio 2015\Projects\k_14_2233\k_14_2233\bin\Debug\k_14_2233.pdb
+C:\Users\uzair\Documents\Visual Studio 2015\Projects\k_14_2233\k_14_2233\bin\Debug\af-ZA\k_14_2233.resources.dll
+C:\Users\uzair\Documents\Visual Studio 2015\Projects\k_14_2233\k_14_2233\bin\Debug\Newtonsoft.Json.dll
+C:\Users\uzair\Documents\Visual Studio 2015\Projects\k_14_2233\k_14_2233\bin\Debug\Newtonsoft.Json.xml
+C:\Users\uzair\Documents\Visual Studio 2015\Projects\k_14_2233\k_14_2233\obj\Debug\k_14_2233.Form1.resources
+C:\Users\uzair\Documents\Visual Studio 2015\Projects\k_14_2233\k_14_2233\obj\Debug\k_14_2233.Properties.Resources.resources
+C:\Users\uzair\Documents\Visual Studio 2015\Projects\k_14_2233\k_14_2233\obj\Debug\k_14_2233.Form1.af-ZA.resources
+C:\Users\uzair\Documents\Visual Studio 2015\Projects\k_14_2233\k_14_2233\obj\Debug\k_14_2233.csproj.GenerateResource.Cache
+C:\Users\uzair\Documents\Visual Studio 2015\Projects\k_14_2233\k_14_2233\obj\Debug\af-ZA\k_14_2233.resources.dll
+C:\Users\uzair\Documents\Visual Studio 2015\Projects\k_14_2233\k_14_2233\obj\Debug\k_14_2233.exe
+C:\Users\uzair\Documents\Visual Studio 2015\Projects\k_14_2233\k_14_2233\obj\Debug\k_14_2233.pdb
+C:\Users\uzair\Documents\Visual Studio 2015\Projects\k_14_2233\k_14_2233\obj\Debug\k_14_2233.csprojResolveAssemblyReference.cache
